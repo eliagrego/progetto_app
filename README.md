@@ -1,2 +1,2 @@
-# progetto_app
-PNRR Scuola
+# Progetto Alimentazione e AI
+Questo progetto per il PNRR...
